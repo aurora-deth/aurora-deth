@@ -6,25 +6,17 @@
 - [ISC2 Candidate Issued by ISC2](https://www.credly.com/badges/73c6f8c2-468c-4704-8afd-6b7b2e405a54/public_url)
 - [ISC2 CC Exam](https://1drv.ms/i/s!AknZu-jGsnhsjROM74qpc6ECQe2d?e=jNDsw4)
 - [Getting Started with Networking (eLearning) by Juniper Networks](https://learningportal.juniper.net/core/user_certificate_render.aspx?result=4565700&certificate=8)
-- [CCNA Certificate of Completion with NEW HORIZONS](https://1drv.ms/b/s!AknZu-jGsnhsjRLuMf-4_EhfmX41?e=7F9Qiq) 
+- [CCNA Certificate of Completion with NEW HORIZONS](https://1drv.ms/b/s!AknZu-jGsnhsjRLuMf-4_EhfmX41?e=7F9Qiq)
+
+  
 <h2>👨‍💻 CISCO PACKET TRACER LAB PROJECTS:</h2>
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+- <b>Wireless Router and Client Configuration</b>
+  - [Setting up a SOHO](https://1drv.ms/f/s!AknZu-jGsnhsjRQRl01zufGRrNLg?e=0CD2dI)
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
-- <b>PowerShell</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
-  - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
-  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
-  - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
-- <b>C# (.NET Desktop Applications)</b>
-  - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
-  - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
-  - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
-- <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 
+  
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
