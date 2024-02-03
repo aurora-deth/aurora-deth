@@ -9,12 +9,13 @@
 - [CCNA Certificate of Completion with NEW HORIZONS](https://1drv.ms/b/s!AknZu-jGsnhsjRLuMf-4_EhfmX41?e=7F9Qiq)
 
   
-<h2>👨‍💻 CISCO PACKET TRACER LAB PROJECTS:</h2>
+<h2>👨‍💻 LAB PROJECTS:</h2>
 
 - <b>Wireless Router and Client Configuration</b>
   - [Setting up a SOHO](https://1drv.ms/f/s!AknZu-jGsnhsjRQRl01zufGRrNLg?e=0CD2dI)
-- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
+- <b>Pre-Connection Attack with airodump-ng(wifi sniffing and packet capture)</b>
+  - [Wifi Sniffing](https://1drv.ms/f/s!AknZu-jGsnhsjgK7WGa6eXKsPPET?e=fTWhNq) <b>
+
 
   
 <h2> 🤳 Connect with me:</h2>
