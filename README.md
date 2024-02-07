@@ -7,6 +7,8 @@
 - [ISC2 CC Exam](https://1drv.ms/i/s!AknZu-jGsnhsjROM74qpc6ECQe2d?e=jNDsw4)
 - [Getting Started with Networking (eLearning) by Juniper Networks](https://1drv.ms/b/s!AknZu-jGsnhsjRp6b2-cXBxkhVYN?e=cVBeAe)
 - [CCNA Certificate of Completion with NEW HORIZONS](https://1drv.ms/b/s!AknZu-jGsnhsjRLuMf-4_EhfmX41?e=7F9Qiq)
+- [Networking Devices and Initial Configuration Issued by Cisco](https://www.credly.com/badges/926e1fdf-621d-4b44-80cb-915bc246841f/public_url)
+- [Networking Basics Issued by Cisco](https://www.credly.com/badges/6c18db11-4b75-4cc9-b174-8520cd12ce9b/public_url)
 
   
 <h2>👨‍💻 LAB PROJECTS:</h2>
@@ -15,6 +17,10 @@
   - [Setting up a SOHO](https://1drv.ms/f/s!AknZu-jGsnhsjRQRl01zufGRrNLg?e=0CD2dI)
 - <b>Pre-Connection Attack with airodump-ng(wifi sniffing and packet capture)</b>
   - [Wifi Sniffing](https://1drv.ms/f/s!AknZu-jGsnhsjgK7WGa6eXKsPPET?e=fTWhNq) <b>
+- <b>Hacked my Brothers Wi-Fi(WPA2 with wordlist(crunch))</b>
+  - [WPA2 Attack](https://1drv.ms/f/s!AknZu-jGsnhsjgK7WGa6eXKsPPET?e=fTWhNq) <b>
+- <b>WPA2 attack using WPS function (Twitter Thread)</b>
+  - [WPS function attack on WPA/WPA2](https://x.com/Oz_rEtSyM/status/1754263487071588532?s=20)<b>
 
 
   
