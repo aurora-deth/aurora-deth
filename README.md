@@ -22,8 +22,8 @@
   - [Setting up a SOHO](https://1drv.ms/f/s!AknZu-jGsnhsjRQRl01zufGRrNLg?e=0CD2dI)
 - <b>Pre-Connection Attack with airodump-ng(wifi sniffing and packet capture)</b>
   - [Wifi Sniffing](https://1drv.ms/f/s!AknZu-jGsnhsjgK7WGa6eXKsPPET?e=fTWhNq) <b>
-- <b>Hacked my Brothers Wi-Fi(WPA2 with wordlist(crunch))</b>
-  - [WPA2 Attack](https://drive.google.com/drive/folders/1c7_Ymcb4MfKMaM_V0VwypALQcqZiWFA3?usp=sharing) <b>
+- <b>Assessing WiFi Security using Airodump-ng and Aircrack-ng</b>
+  - [WPA/WPA2 Attack](https://drive.google.com/drive/folders/1c7_Ymcb4MfKMaM_V0VwypALQcqZiWFA3?usp=sharing)<b>
 
 <h2><img align="left" alt="Osezua | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg"/> TWITTER THREADS</h2>
 
