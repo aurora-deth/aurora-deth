@@ -24,6 +24,8 @@
   - [Wifi Sniffing](https://1drv.ms/f/s!AknZu-jGsnhsjgK7WGa6eXKsPPET?e=fTWhNq) <b>
 - <b>Assessing WiFi Security using Airodump-ng and Aircrack-ng</b>
   - [WPA/WPA2 Attack](https://drive.google.com/drive/folders/1c7_Ymcb4MfKMaM_V0VwypALQcqZiWFA3?usp=sharing)<b>
+- <b>WiFi WPA_WPA2 vs hashcat and hcxdumptool</b>
+  - [HASHCAT BRUTE FORCE ATTACK](https://1drv.ms/f/s!AknZu-jGsnhsjkSu9KpxCpuYkQNz?e=vUF037)<b>
 
 <h2><img align="left" alt="Osezua | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg"/> TWITTER THREADS</h2>
 
