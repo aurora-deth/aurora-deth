@@ -2,6 +2,9 @@
 <a href="https://www.linkedin.com/in/osezua-agboifoh-b1b539238/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://twitter.com/Oz_rEtSyM"><img src="https://img.shields.io/twitter/url?url=https%3A%2F%2Ftwitter.com%2FOz_rEtSyM&style=for-the-badge&logo=x&logoColor=white&label=Twitter&color=gray" /></a>
 
+## OBJECTIVE
+As an aspiring Cybersecurity SOC Analyst and Pentester, I bring a passion for safeguarding digital environments against evolving threats and vulnerabilities.
+My journey into cybersecurity has equipped me with a deep understanding of SOC operations, incident response protocols, and penetration testing methodologies. Leveraging my analytical mindset and technical acumen, I am poised to contribute effectively to defending critical assets and enhancing cybersecurity posture in dynamic environments
 
 <h2>📺 CERTIFICATIONS</h2>
 
