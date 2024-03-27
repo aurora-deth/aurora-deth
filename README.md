@@ -1,4 +1,7 @@
-<h1>Hi, I'm Osezua Irenaeus Agboifoh! <br/><a href="https://github.com/aurora-deth">Technical Support</a>, <a href="https://www.linkedin.com/in/osezua-agboifoh-b1b539238/">Cybersecurity Professional</a></h1>
+<h1>Hi, I'm Osezua Irenaeus Agboifoh! <br/><a>Technical Support</a>, <a>Cybersecurity Professional</a></h1>
+<a href="https://www.linkedin.com/in/osezua-agboifoh-b1b539238/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://twitter.com/Oz_rEtSyM"><img src="https://img.shields.io/twitter/url?url=https%3A%2F%2Ftwitter.com%2FOz_rEtSyM&style=for-the-badge&logo=x&logoColor=white&label=Twitter&color=gray" /></a>
+
 
 <h2>📺 CERTIFICATIONS</h2>
 
